@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Charlton Li"
+  pronouns         : 
+  bio              : "Math, physics, and computer science"
+  location         : "Columbus, Ohio"
+  employer         : "Ohio State University"
+  uri              : 
+  email            : "li.12635@osu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
